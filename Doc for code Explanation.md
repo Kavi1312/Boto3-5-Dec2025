@@ -21,7 +21,7 @@ This document outlines the process and implementation for automatically managing
 2. If it does not exist, create a new S3 bucket in the specified AWS region.
 
 ### 2. **Launch an EC2 Instance with Nginx**
-1. Launch an EC2 instance using a specified Amazon Linux 2 AMI.
+1. Launch an EC2 instance using a specified Amazon ubunbtu AMI.
 2. Install Nginx on the instance and configure it to serve a static web page.
 
 ### 3. **Set Up an Application Load Balancer (ALB)**

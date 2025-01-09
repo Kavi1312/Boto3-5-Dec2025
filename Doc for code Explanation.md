@@ -65,3 +65,4 @@ This document outlines the process and implementation for automatically managing
 
 ## Conclusion
 This process ensures a scalable and automated solution for deploying and managing a web application on AWS. By integrating ALB, ASG, and SNS, the system achieves reliability and responsiveness to dynamic workloads. For further improvements, consider using additional AWS services like CloudWatch and Lambda for monitoring and automation.
+
